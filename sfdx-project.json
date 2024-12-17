@@ -1,0 +1,20 @@
+{
+  "packageDirectories": [
+    {
+      "versionName": "ver 1.0",
+      "versionNumber": "1.0.0.NEXT",
+      "path": "force-app",
+      "default": true,
+      "package": "Sample2GP ",
+      "versionDescription": ""
+    }
+  ],
+  "name": "salesForcePackageTest",
+  "namespace": "winappsys",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "62.0",
+  "packageAliases": {
+    "Sample2GP ": "0HoWU0000000P850AE",
+    "Sample2GP @1.0.0-1": "04tWU0000004SgrYAE"
+  }
+}
